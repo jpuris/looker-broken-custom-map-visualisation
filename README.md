@@ -5,7 +5,7 @@ LookML project for reproducing the visualisation problem with custom topojson ma
 
 Project structure
 
-TODO: IMAGE
+![](static/img/Looker-map-glitch%20project%20structure.png)
 
 
 ## The problem
@@ -16,4 +16,10 @@ Some country "fill" is not visible until zoomed in. In the example dashboard / e
 - France
 - Italy
 
-TODO: SCREENSHOTS
+![](static/img/zoom_0.png)
+
+![](static/img/zoom_1.png)
+
+![](static/img/zoom_2_1.png)
+
+![](static/img/zoom_2_2.png)
